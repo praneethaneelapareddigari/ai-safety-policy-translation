@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this framework or its recommendations, please cite it as below."
+title: "Evidence-Based AI Safety Policy Translation"
+version: 0.1.0
+date-released: 2026-07-08
+authors:
+  - family-names: "[Your Last Name]"
+    given-names: "[Your First Name]"
+license: MIT
+repository-code: "https://github.com/praneethaneelapareddigari/ai-safety-policy-translation"
+keywords:
+  - AI safety
+  - AI policy
+  - LLM evaluation
+  - deployment guidance
+  - research synthesis
