@@ -96,7 +96,8 @@ Once the sibling repos have real-model results, regenerate the evidence tables w
 | SentinelAI | Cross-lingual LLM safety evaluation — evidence source |
 | Prompt Injection & Jailbreak Robustness Benchmark | Adversarial robustness evaluation — evidence source |
 | **This project** | Synthesis layer: evidence → deployment/evaluation guidance |
-| AgentGuard | Engineering system implementing guardrails informed by this synthesis |
+| AgentGuard | Engineering system implementing guardrails informed by this synthesis *(planned)* |
+| [SATYA](https://github.com/praneethaneelapareddigari/hackathon-portfolio/tree/main/completed/satya) | Real-world high-stakes application (government procurement) where this synthesis's deployment recommendations would actually apply once populated |
 
 ## License
 
